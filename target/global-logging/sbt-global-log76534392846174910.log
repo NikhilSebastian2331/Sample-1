@@ -1,0 +1,15 @@
+[debug] > Exec(;project {file:/F:/Big%20data/Api/RestCall/}root; <, None, None)
+[debug] > Exec(project {file:/F:/Big%20data/Api/RestCall/}root, None, None)
+[info] set current project to RestCall (in build file:/F:/Big%20data/Api/RestCall/)
+[debug] > Exec(<, None, None)
+[error] < usage:
+[error] 
+[error] 
+[error] More command help available using 'help <command>' for:
+[error]   <
+[error] 
+[error] <
+[error]  ^
+[debug] > Exec(idea-shell, None, None)
+[debug] > Exec(, None, None)
+[debug] > Exec(idea-shell, None, None)
